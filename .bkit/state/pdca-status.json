@@ -1,0 +1,179 @@
+{
+  "version": "2.0",
+  "lastUpdated": "2026-03-16T01:21:25.826Z",
+  "activeFeatures": [
+    "claude-nextjs-starters",
+    "providers",
+    "layout",
+    "sections"
+  ],
+  "primaryFeature": "claude-nextjs-starters",
+  "features": {
+    "claude-nextjs-starters": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-15T12:37:59.071Z",
+        "lastUpdated": "2026-03-15T12:39:35.314Z"
+      },
+      "lastFile": "C:\\Users\\hongkwon\\workspace\\courses\\claude-nextjs-starters\\app\\page.tsx"
+    },
+    "providers": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-15T12:38:03.633Z",
+        "lastUpdated": "2026-03-15T12:38:03.633Z"
+      },
+      "lastFile": "C:\\Users\\hongkwon\\workspace\\courses\\claude-nextjs-starters\\components\\providers\\theme-provider.tsx"
+    },
+    "layout": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-15T12:38:08.771Z",
+        "lastUpdated": "2026-03-16T01:21:25.825Z"
+      },
+      "lastFile": "C:\\Users\\hongkwon\\workspace\\courses\\claude-nextjs-starters\\components\\layout\\header-nav.tsx"
+    },
+    "sections": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-15T12:38:53.322Z",
+        "lastUpdated": "2026-03-15T12:39:21.831Z"
+      },
+      "lastFile": "C:\\Users\\hongkwon\\workspace\\courses\\claude-nextjs-starters\\components\\sections\\cta-section.tsx"
+    }
+  },
+  "pipeline": {
+    "currentPhase": 1,
+    "level": "Dynamic",
+    "phaseHistory": []
+  },
+  "session": {
+    "startedAt": "2026-03-15T12:10:52.604Z",
+    "onboardingCompleted": false,
+    "lastActivity": "2026-03-16T01:21:25.826Z"
+  },
+  "history": [
+    {
+      "timestamp": "2026-03-15T12:37:59.071Z",
+      "feature": "claude-nextjs-starters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-15T12:38:03.633Z",
+      "feature": "providers",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-15T12:38:08.771Z",
+      "feature": "layout",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-15T12:38:17.708Z",
+      "feature": "layout",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-15T12:38:23.944Z",
+      "feature": "layout",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-15T12:38:28.005Z",
+      "feature": "layout",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-15T12:38:40.969Z",
+      "feature": "layout",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-15T12:38:53.322Z",
+      "feature": "sections",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-15T12:39:02.671Z",
+      "feature": "sections",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-15T12:39:12.835Z",
+      "feature": "sections",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-15T12:39:21.831Z",
+      "feature": "sections",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-15T12:39:31.061Z",
+      "feature": "claude-nextjs-starters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-15T12:39:35.314Z",
+      "feature": "claude-nextjs-starters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-16T01:19:30.738Z",
+      "feature": "layout",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-16T01:21:18.768Z",
+      "feature": "layout",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-16T01:21:22.353Z",
+      "feature": "layout",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-16T01:21:25.825Z",
+      "feature": "layout",
+      "phase": "do",
+      "action": "updated"
+    }
+  ]
+}
